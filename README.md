@@ -1,4 +1,6 @@
 # oss2025
+#오늘은 월요일입니다.
+welcome to my class good lecture
 welcome
 good lecture
 
